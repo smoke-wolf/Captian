@@ -3,12 +3,15 @@ Lightweight custom module execution through python:
 
 
 
-#{---------------------------------------}
+
 #In terminal (mac) command-line (win)
+
 #cd Captin
+
 #pip3 install -r REQ.txt
+
 #python3 captin.py
-#{---------------------------------------}
+
 
 
 
