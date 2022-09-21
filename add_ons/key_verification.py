@@ -4,7 +4,8 @@ from pathlib import Path
 import time
 # key assembly
 import hashlib, ast
-import add_ons.IPPF
+import add_ons
+from add_ons import *
 
 
 format =  '{publishdate}{author}{totalfilelines}{totalwordcount}{totalcharactercount}{totalfunctionsinfile}'
